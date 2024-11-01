@@ -35,6 +35,9 @@ img {
     object-position: 0px -250px; 
 }
 
+li {
+    margin-left: 10px;
+}
 
 li::marker{
     font-weight: bold;
